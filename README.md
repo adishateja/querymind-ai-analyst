@@ -70,7 +70,6 @@ Deterministic output for code generation — same question always produces the s
 Built as a portfolio project demonstrating LLM integration, prompt engineering, and safe code execution patterns.
 """
 
-with open("README.md", "w") as f:
-    f.write(readme)
 
-print("✅ README.md created!")
+
+
